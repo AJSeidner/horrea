@@ -1,0 +1,23 @@
+{
+  "name": "horrea",
+  "version": "1.0.0",
+  "description": "inventory database management application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJSeidner/horrea.git"
+  },
+  "author": "A.J Seidner, Harith (Alex)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJSeidner/horrea/issues"
+  },
+  "homepage": "https://github.com/AJSeidner/horrea#readme",
+  "devDependencies": {
+    "webpack": "^3.5.6"
+  }
+}
