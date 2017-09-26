@@ -6,24 +6,12 @@ var Main = React.createClass({
 		return (
 
             <div className = "main-container">
-
-            <div className = "container">
-
-            	<div className = "jumbotron" id = "title">
-		            <h1 className = "center-align"> Horrea </h1> 
-		            <h3 className = "center-align"> inventory management database </h3>
-            	</div>
-
-            </div>
-
-
-
-
-
-
-
-
-
+                <div className = "container">
+                    <div className = "jumbotron" id = "title">
+                        <h1 className = "center-align"> Horrea </h1> 
+                        <h3 className = "center-align"> inventory management database </h3>
+                    </div>
+                </div>
             </div>
 
         )
